@@ -8,4 +8,5 @@ public class Test2 {
 	  int z=12345678;
 	  int abc=123;
 	int xyz=0;
+	int xyz1=234;
 }
