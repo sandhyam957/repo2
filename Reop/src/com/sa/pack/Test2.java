@@ -11,6 +11,10 @@ public class Test2 {
 
 	int xyz1=234;
 	int y=1234;
+	
+	public void m2(){
+	int san=0;
+	}
 
 
 }
