@@ -7,4 +7,5 @@ public class Test2 {
 	  int x=1234567;
 	  int z=12345678;
 	  int abc=123;
+	int xyz=0;
 }
