@@ -9,4 +9,5 @@ public class Test2 {
 	  int abc=123;
 	int xyz=0;
 	int xyz1=234;
+	int y=1234;
 }
